@@ -1,0 +1,10 @@
+[user]
+	email = sbe@digid.com
+	name = Svenja Bernhardt
+
+ 
+
+[core]
+	excludesfile = ~/.gitignore
+	autocrlf = input
+    
